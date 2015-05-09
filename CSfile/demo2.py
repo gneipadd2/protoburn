@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 23 19:08:08 2015
-@author: Jha Yanin
-"""
+
 
 import os
 from flask import Flask, request, redirect, url_for, render_template
